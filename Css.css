@@ -116,6 +116,10 @@ span{
     .btn{
         width: 30px;
     height: 30px;
+    }
+    span{
+    font-size: 12px;
+}
   }
     
 
