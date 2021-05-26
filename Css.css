@@ -96,16 +96,32 @@ span{
 }
 @media screen and (max-width: 600px) {
     .containar {
-        width: 290px;
-        height: 400px;
+        width: 240px;
+        height: 300px;
+        margin-top: 180px;
     }
     .btnC{
-        margin-top: 15px;
+        margin-top: 18px;
+    }
+    .btn{
+        width: 22px;
+        height: 22px;
     }
     .pic{
-        width: 200px;
-        height: 200px;
-        left: 16%;
+        width: 140px;
+        height: 140px;
+        left: 20%;
+        top: -33px;
+        
+    }
+    span{
+        font-size:15px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 15px;
     }
   }
 
