@@ -97,8 +97,8 @@ span{
 @media screen and (max-width: 600px) {
     .containar {
         width: 240px;
-        height: 315px;
-        margin-top: 210px;
+        height: 300px;
+        margin-top: 180px;
     }
     .btnC{
         margin-top: 18px;
