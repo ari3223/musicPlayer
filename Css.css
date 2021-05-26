@@ -96,8 +96,8 @@ span{
 
 @media screen and (max-width: 400px) {
     .containar{
-        height: 85vh;
-        width: 90vw;
+        height: 85%;
+        width: 90%;
     }
     
     h1{
