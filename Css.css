@@ -100,25 +100,25 @@ span{
         height: 350px;
     }
     .btnC{
-        margin-top: 15px;
+        margin-top: 20px;
     }
     .pic{
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
         left: 16%;
     }
     h1{
-        30px
+        20px
     }
     h3{
-    12px
+    8px
     }
     .btn{
-        width: 30px;
-    height: 30px;
+        width: 20px;
+        height: 20px;
     }
     span{
-    font-size: 12px;
+    font-size: 8px;
 }
   }
     
