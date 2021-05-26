@@ -8,6 +8,9 @@ body{
     display: flex;
     justify-content: center;
     margin: 0;
+    background-image: url(img/pexels-luca-minguz-5083683.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
 }
 
 .containar{
@@ -91,15 +94,19 @@ span{
 .btn:active{
     transform: scale(.94);
 }
-
-
-
-@media screen and (max-width: 400px) {
-    .containar{
-        height: 85vh;
-        width: 90vw;
+@media screen and (max-width: 600px) {
+    .containar {
+        width: 290px;
+        height: 400px;
     }
-    
-    h1{
+    .btnC{
+        margin-top: 15px;
     }
-}
+    .pic{
+        width: 200px;
+        height: 200px;
+        left: 16%;
+    }
+  }
+
+
